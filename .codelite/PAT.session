@@ -4,16 +4,9 @@
   <wxString Value="/Users/sontal/Documents/code/pat/PAT.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
-      <wxString Value="/Users/sontal/Documents/code/pat/List/List.h" Name="FileName"/>
-      <int Value="177" Name="FirstVisibleLine"/>
-      <int Value="181" Name="CurrentLine"/>
-      <wxArrayString Name="Bookmarks"/>
-      <IntVector Name="CollapsedFolds"/>
-    </TabInfo>
-    <TabInfo>
-      <wxString Value="/Users/sontal/Documents/code/pat/List/main.cpp" Name="FileName"/>
+      <wxString Value="/Users/sontal/Documents/code/pat/1009/main.cpp" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="13" Name="CurrentLine"/>
+      <int Value="11" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
