@@ -1,0 +1,5 @@
+[{
+  "directory": "/Users/sontal/Documents/code/pat/List",
+  "command": "/usr/bin/g++ -c /Users/sontal/Documents/code/pat/List/main.cpp -g -O0 -Wall -o ./Debug/main.cpp.o -I. -I.",
+  "file": "/Users/sontal/Documents/code/pat/List/main.cpp"
+ }]
