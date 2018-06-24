@@ -4,19 +4,19 @@ using namespace std;
 int main(int argc, char **argv)
 {
     int k,n;
-    cin >> k >> n;
-    int flag = 0;
-	while(cin >> k >> n != EOF){
-        if(flag == 0){
-            if(n * k == 0) continue;
-            cout << k*n << " "<< n-1;
-            flag = 1;
-        }else{
-            if(n * k == 0) continue;
-            cout << " " << k*n << " "<< n-1 ;
-        }
-    }
+    int flag = 1;
     
-    if(flag == 0) cout << "0 0";
+    do{
+        cin >> k >> n;
+        if(n > 0){
+            if(flag){
+                cout << k*n << " " << n-1;
+                flag = 0;
+            }else{
+                cout << " "<< k*n << " " << n-1;
+            }
+        }
+        if(flag) cout << "0 0";
+    }while(getchar() != '\n');
     return 0;
 }
