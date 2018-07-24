@@ -8,7 +8,12 @@
   <Project Name="1009" Path="1009/1009.project" Active="No"/>
   <Project Name="1010" Path="1010/1010.project" Active="No"/>
   <Project Name="1012" Path="1012/1012.project" Active="No"/>
-  <Project Name="1013" Path="1013/1013.project" Active="Yes"/>
+  <Project Name="1013" Path="1013/1013.project" Active="No"/>
+  <Project Name="1014" Path="1014/1014.project" Active="No"/>
+  <Project Name="1016" Path="1016/1016.project" Active="No"/>
+  <Project Name="1026" Path="1026/1026.project" Active="No"/>
+  <Project Name="1046" Path="1046/1046.project" Active="No"/>
+  <Project Name="1018" Path="1018/1018.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -21,6 +26,11 @@
       <Project Name="1010" ConfigName="Debug"/>
       <Project Name="1012" ConfigName="Debug"/>
       <Project Name="1013" ConfigName="Debug"/>
+      <Project Name="1014" ConfigName="Debug"/>
+      <Project Name="1016" ConfigName="Debug"/>
+      <Project Name="1026" ConfigName="Debug"/>
+      <Project Name="1046" ConfigName="Debug"/>
+      <Project Name="1018" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -33,6 +43,11 @@
       <Project Name="1010" ConfigName="Release"/>
       <Project Name="1012" ConfigName="Release"/>
       <Project Name="1013" ConfigName="Release"/>
+      <Project Name="1014" ConfigName="Release"/>
+      <Project Name="1016" ConfigName="Release"/>
+      <Project Name="1026" ConfigName="Release"/>
+      <Project Name="1046" ConfigName="Release"/>
+      <Project Name="1018" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
