@@ -13,7 +13,23 @@
   <Project Name="1016" Path="1016/1016.project" Active="No"/>
   <Project Name="1026" Path="1026/1026.project" Active="No"/>
   <Project Name="1046" Path="1046/1046.project" Active="No"/>
-  <Project Name="1018" Path="1018/1018.project" Active="Yes"/>
+  <Project Name="1018" Path="1018/1018.project" Active="No"/>
+  <Project Name="A1042" Path="A1042/A1042.project" Active="No"/>
+  <Project Name="A1046" Path="A1046/A1046.project" Active="No"/>
+  <Project Name="A1065" Path="1065/1065.project" Active="No"/>
+  <Project Name="A1009" Path="A1009/A1009.project" Active="No"/>
+  <Project Name="1041" Path="1041/1041.project" Active="No"/>
+  <Project Name="1028" Path="1028/1028.project" Active="No"/>
+  <Project Name="1032" Path="1032/1032.project" Active="No"/>
+  <Project Name="A1011" Path="A1011/A1011.project" Active="No"/>
+  <Project Name="A1006" Path="A1006/A1006.project" Active="No"/>
+  <Project Name="A1036" Path="A1036/A1036.project" Active="No"/>
+  <Project Name="1036" Path="1036/1036.project" Active="No"/>
+  <Project Name="1027" Path="1027/1027.project" Active="No"/>
+  <Project Name="A1031" Path="A1031/A1031.project" Active="No"/>
+  <Project Name="1022" Path="1022/1022.project" Active="No"/>
+  <Project Name="1037" Path="1037/1037.project" Active="No"/>
+  <Project Name="A1019" Path="A1019/A1019.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -31,6 +47,22 @@
       <Project Name="1026" ConfigName="Debug"/>
       <Project Name="1046" ConfigName="Debug"/>
       <Project Name="1018" ConfigName="Debug"/>
+      <Project Name="A1042" ConfigName="Debug"/>
+      <Project Name="A1046" ConfigName="Debug"/>
+      <Project Name="A1065" ConfigName="Debug"/>
+      <Project Name="A1009" ConfigName="Debug"/>
+      <Project Name="1041" ConfigName="Debug"/>
+      <Project Name="1028" ConfigName="Debug"/>
+      <Project Name="1032" ConfigName="Debug"/>
+      <Project Name="A1011" ConfigName="Debug"/>
+      <Project Name="A1006" ConfigName="Debug"/>
+      <Project Name="A1036" ConfigName="Debug"/>
+      <Project Name="1036" ConfigName="Debug"/>
+      <Project Name="1027" ConfigName="Debug"/>
+      <Project Name="A1031" ConfigName="Debug"/>
+      <Project Name="1022" ConfigName="Debug"/>
+      <Project Name="1037" ConfigName="Debug"/>
+      <Project Name="A1019" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -48,6 +80,22 @@
       <Project Name="1026" ConfigName="Release"/>
       <Project Name="1046" ConfigName="Release"/>
       <Project Name="1018" ConfigName="Release"/>
+      <Project Name="A1042" ConfigName="Release"/>
+      <Project Name="A1046" ConfigName="Release"/>
+      <Project Name="A1065" ConfigName="Release"/>
+      <Project Name="A1009" ConfigName="Release"/>
+      <Project Name="1041" ConfigName="Release"/>
+      <Project Name="1028" ConfigName="Release"/>
+      <Project Name="1032" ConfigName="Release"/>
+      <Project Name="A1011" ConfigName="Release"/>
+      <Project Name="A1006" ConfigName="Release"/>
+      <Project Name="A1036" ConfigName="Release"/>
+      <Project Name="1036" ConfigName="Release"/>
+      <Project Name="1027" ConfigName="Release"/>
+      <Project Name="A1031" ConfigName="Release"/>
+      <Project Name="1022" ConfigName="Release"/>
+      <Project Name="1037" ConfigName="Release"/>
+      <Project Name="A1019" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
